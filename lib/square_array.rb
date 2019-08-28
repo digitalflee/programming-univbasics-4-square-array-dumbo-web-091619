@@ -8,5 +8,5 @@ def square_array(numbers)
    new_numbers << counter ** 2 
     counter += 1
   end
-  return new_numbers
+  return new_numbers.shift 
 end 
