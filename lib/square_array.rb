@@ -1,10 +1,10 @@
 numbers = []
 
-def square_array(numbers)
+def square_array()
   counter = 1   
  new_numbers = []
   
-  while counter <= 100 do
+  while counter <= numbers do
    new_numbers << counter ** 2 
     counter += 1
   end
