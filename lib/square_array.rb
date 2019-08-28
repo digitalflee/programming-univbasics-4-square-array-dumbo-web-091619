@@ -1,6 +1,5 @@
-numbers = []
 
-def square_array()
+def square_array(numbers)
   counter = 1   
  new_numbers = []
   
