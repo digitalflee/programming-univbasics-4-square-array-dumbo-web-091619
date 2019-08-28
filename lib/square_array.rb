@@ -1,1 +1,1 @@
-square_array = []
+while 
