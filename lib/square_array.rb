@@ -7,6 +7,6 @@ def square_array(numbers)
     counter ** 2 
     counter += 1
   end
-  square_array = new_numbers
+  return counter
 end 
 
