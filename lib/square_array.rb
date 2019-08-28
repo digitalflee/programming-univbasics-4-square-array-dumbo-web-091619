@@ -1,6 +1,6 @@
 
 def square_array(numbers)
-  counter = 1   
+  counter = -1   
  new_numbers = []
   
   while counter <= numbers.size do
