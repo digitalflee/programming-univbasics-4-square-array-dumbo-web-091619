@@ -1,6 +1,6 @@
-numbers = []
-new_numbers = []
+
 def square_array(numbers)
+  numbers = []
  new_numbers = []
   counter = 1  
   
@@ -11,6 +11,5 @@ def square_array(numbers)
   return square_array(new_numbers) 
 end 
 
-def square_array(new_numbers)
 
 
